@@ -1,8 +1,6 @@
 # ¡Hola! 👋 
 
-## Acerca de Mí
-
-¡Hey! Soy Krist, un entusiasta de la programación y el desarrollo web. Después de un tiempo alejado, estoy de vuelta y más emocionado que nunca por sumergirme en el mundo del desarrollo full-stack. 💻✨
+Soy Cristian, pero puedes llamarme Krist, un entusiasta de la programación y el desarrollo web. Después de un tiempo alejado, estoy de vuelta y más emocionado que nunca por sumergirme en el mundo del desarrollo full-stack. 💻✨
 
 Me encanta explorar nuevas tecnologías y desafíos, y estoy comprometido a aprender y crecer cada día. Mi enfoque es crear soluciones creativas y funcionales mientras me divierto en el proceso. 🚀
 

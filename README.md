@@ -1,8 +1,8 @@
-# ¡Hola! 👋 Soy Krist
+# ¡Hola! 👋 
 
 ## Acerca de Mí
 
-¡Hey! Soy Cristian, un entusiasta de la programación y el desarrollo web. Después de un tiempo alejado, estoy de vuelta y más emocionado que nunca por sumergirme en el mundo del desarrollo full-stack. 💻✨
+¡Hey! Soy Krist, un entusiasta de la programación y el desarrollo web. Después de un tiempo alejado, estoy de vuelta y más emocionado que nunca por sumergirme en el mundo del desarrollo full-stack. 💻✨
 
 Me encanta explorar nuevas tecnologías y desafíos, y estoy comprometido a aprender y crecer cada día. Mi enfoque es crear soluciones creativas y funcionales mientras me divierto en el proceso. 🚀
 
@@ -14,9 +14,9 @@ Me encanta explorar nuevas tecnologías y desafíos, y estoy comprometido a apre
 
 ## Proyectos Destacados
 
-- **Proyecto 1**: "En construcción"
-- **Proyecto 2**: "En construcción"
-- **Proyecto 3**: "En construcción"
+- **Proyecto 1**: "En construcción" 
+- **Proyecto 2**: [El Arcadeverso](https://github.com/CodingKrist/arcadeverso)
+- **Proyecto 3**: [Job Portal](https://github.com/CodingKrist/job-portal)
 
 ## Habilidades
 
